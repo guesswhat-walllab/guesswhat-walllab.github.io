@@ -1,0 +1,40 @@
+body {
+  background-color: #19403C;
+  color: #FDFDFD;
+}
+
+.item {
+  color: #19403C !important;
+}
+
+.gw-studytitle {
+  color: #19403C !important;
+  font-size: 3rem !important;
+}
+
+.gw-header {
+  background-color: #A7EBF2 !important;
+}
+
+.gw-bodyheader {
+  color: #A7EBF2 !important;
+  font-size: 3rem !important;
+}
+
+#gw-button {
+  background-color: #A7EBF2 !important;
+  color: #19403C !important;
+}
+
+.gw-spacer {
+  height: 20px;
+}
+
+.gw-footer {
+  background-color: #A7EBF2 !important;
+  color: #19403C !important;
+}
+
+.gw-text {
+  font-size: 1.3rem;
+}
